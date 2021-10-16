@@ -18,6 +18,11 @@ $ pip3 install -r requirements.txt
 
 $ python3 -m pip install -r requirements.txt
 
+# if you have problem to install pyaudio on mac
+
+$ brew install portaudio
+$ pip3 install pyaudio
+
 ```
 
 ### Usage
