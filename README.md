@@ -32,6 +32,8 @@ Basic usage
 ```console
 # Run the script
 $ python3 voice_recognition.py
+
+# Say "terminé" to end the script
 ```
 
 ## License
